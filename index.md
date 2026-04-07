@@ -12,6 +12,4 @@ title: 欢迎来到我的博客
 - [{{ post.title }}]({{ post.url | relative_url }}) - {{ post.date | date: "%Y-%m-%d" }}
 {% endfor %}
 
-## 关于我
 
-我是 yzh，正在学习技术博客的搭建。
